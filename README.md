@@ -10,4 +10,7 @@ c) github reference: https://github.com/kdkalvik/skeleton-action-recognition
 ```python
 python ntu_dataset_main.py
 ```
-## 2 :
+## 3 Results:
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/94251855/153308995-46a15750-40cb-4b43-b888-b1302a913021.png">
+
+<img width="387" alt="image" src="https://user-images.githubusercontent.com/94251855/153309106-19813887-f33e-4203-a27c-cb9aa6d76070.png">

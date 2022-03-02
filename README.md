@@ -1,3 +1,4 @@
+By Guochu Yi & Yiying Wei 
 # Two-Sream-RNN-Reimplement(PyTorch framework)
 In this project, I reimplemented the method reported in the paper "Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks"(which can be found here: https://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Modeling_Temporal_Dynamics_CVPR_2017_paper.pdf) on NTU RGB+D Dataset.
 ## 1 NTU RGB+D Dataset: 
